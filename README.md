@@ -1,0 +1,1 @@
+# Iteracao_com_o_ambiente_mediante_classificador_de_gesto_por_ditancia_euclidiana
